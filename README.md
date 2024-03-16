@@ -3,6 +3,7 @@ This project aims to develop a machine-learning model for predicting heart disea
 
 
 Approach
+
 Problem Definition: Define the problem statement, which is predicting whether an individual has heart disease based on their medical attributes.
 
 Data: Discuss the dataset used for training and testing the model. Explain the features included in the dataset and their significance in predicting heart disease.
